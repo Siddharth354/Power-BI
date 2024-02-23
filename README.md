@@ -8,7 +8,7 @@ The Data Professional Survey Breakdown Power BI project is a comprehensive data 
 
 
 
-
+# Cricket project
 This Power BI project aims to provide comprehensive analytics and visualization of cricket data, offering insights into player performance, team strategies, match outcomes, and trends in the sport. Through interactive dashboards and visualizations, cricket enthusiasts and professionals can explore and understand various aspects of the game in depth.
 
 
