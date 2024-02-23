@@ -1,0 +1,9 @@
+This Power BI project aims to provide comprehensive analytics and visualization of cricket data, offering insights into player performance, team strategies, match outcomes, and trends in the sport. Through interactive dashboards and visualizations, cricket enthusiasts and professionals can explore and understand various aspects of the game in depth.
+
+
+Data Collection: Cricket data is collected from diverse sources including official cricket boards, cricket statisticians, and third-party datasets.
+2. Data Preparation: Data preprocessing tasks such as cleaning, transforming, and shaping are performed using Power Query Editor within Power BI to ensure data quality and consistency.
+3. Analysis and Visualization: Statistical analysis and visualization techniques are applied to the prepared data to derive meaningful insights. This includes player performance analysis, team comparison, match prediction models, and more.
+4. Dashboard Creation: Interactive dashboards are designed within Power BI to present the analysis in an intuitive and visually appealing manner, allowing users to explore and interact with the data dynamically.
+
+
